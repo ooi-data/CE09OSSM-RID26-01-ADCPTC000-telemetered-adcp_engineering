@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE09OSSM-RID26-01-ADCPTC000-telemetered-adcp_engineering
-last_request: '2022-01-21T18:47:30.171062Z'
+last_request: '2022-02-07T19:37:46.943530Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-RID26-01-ADCPTC000-telemetered-adcp_engineering/main/history/response.json
 status: discontinued
